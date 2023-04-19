@@ -1,0 +1,15 @@
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\bin\Debug\net6.0\FirstFolder.exe
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\bin\Debug\net6.0\FirstFolder.deps.json
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\bin\Debug\net6.0\FirstFolder.runtimeconfig.json
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\bin\Debug\net6.0\FirstFolder.dll
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\bin\Debug\net6.0\FirstFolder.pdb
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.csproj.AssemblyReference.cache
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.AssemblyInfoInputs.cache
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.AssemblyInfo.cs
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.csproj.CoreCompileInputs.cache
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.dll
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\refint\FirstFolder.dll
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.pdb
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\FirstFolder.genruntimeconfig.cache
+C:\Users\Legion7\Desktop\CSharp\FirstFolder\obj\Debug\net6.0\ref\FirstFolder.dll
